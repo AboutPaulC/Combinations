@@ -2,6 +2,8 @@
 
 I was reading an article on Wi-Fi password generation and wondered just how long it would actually take to generate a list of all possible pass word combinations...
 
+### BE WARNED - CPU AND TIME INTENSIVE - START WITH A LOW NUMBER
+
 So i wrote a little script to run and see what times it could complete in depending on how many characters in length i requested it to be. The script uses itertools to create the combinations and then writes each to the console with a print comand and then to a txt file.
 
 The characters used are: 0123456789abcdefghijklmnopqrstuvwxyABCDEFGHIJKLMNOPQRSTUVQHY-></\-_=+{}[]|?~`€@£#$%^&*()§±'" and SPACE
