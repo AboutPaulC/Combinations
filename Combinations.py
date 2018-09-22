@@ -33,7 +33,7 @@ with open('Combinations.txt','w') as txt_file:
 			combinations += 1
 
 #  collect the stop time
-endTime = endTime = datetime.datetime.now()
+endTime = datetime.datetime.now()
 print('')
 print("*" * 50)
 #  print stop time to console
