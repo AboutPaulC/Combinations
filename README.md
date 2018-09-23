@@ -15,4 +15,13 @@ The computer it is being tested on is an Apple 2015 MBP 15" Retina, 2.8 Intel i7
 - 2...........0:00:00.045862........8,742
 - 3...........0:00:04.300669........813,099
 - 4...........0:08:01.211785........75,618,300
-- 5...........
+- 5........... HOURS........
+
+I need my MBP more than using it to find out how long this script will take to run, so i had an idea, grabbed a spare Raspberry Pi B Ver 2 512Mb and set it to work... Yes it is significantly slower than an i7 MBP, but equally it can sit there running the script for as long as it takes without affecting anything else...
+
+- Length......Time Taken........No Of Combinations
+- 1...........0:00:00.682163.........93
+- 2...........0:01:01.375333.........8,742
+- 3...........  Running Now  ........813,099
+
+
