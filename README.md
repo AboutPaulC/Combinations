@@ -22,6 +22,7 @@ I need my MBP more than using it to find out how long this script will take to r
 - Length......Time Taken........No Of Combinations
 - 1...........0:00:00.682163.........93
 - 2...........0:01:01.375333.........8,742
-- 3...........  Running Now  ........813,099
+- 3...........1:35:31.672425.........813,099
+- 4...........     Running Now...
 
 
