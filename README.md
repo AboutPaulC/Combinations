@@ -25,4 +25,6 @@ I need my MBP more than using it to find out how long this script will take to r
 - 3...........1:35:31.672425.........813,099
 - 4...........     Running Now... And thats as far as you can get on a Pi before it runs out of memory, oh well...
 
+I ran the 5 digit combination on my MBP, it took 12:34:23.184416 to generate 7,032,501,993 combinations... If anyone has a spare super computer lying about to keep testing thatd be great, maybe at some point i'll setup a cloud based instance and run it from there so i can still use my MBP...
+
 
